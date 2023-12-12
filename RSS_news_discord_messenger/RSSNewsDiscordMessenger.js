@@ -60,7 +60,6 @@ module.exports = {
 			const embed = new EmbedBuilder();
 			embed.setTitle(item.title);
 			embed.setURL(item.link);
-			embed.setDescription(item.guid);
 
 			return embed;
 		}
