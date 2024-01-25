@@ -1,0 +1,6 @@
+node_modules
+config.json
+RSS_news_discord_messenger/term-regex-whitelist.json
+RSS_news_discord_messenger/updates-channels.json
+RSS_news_discord_messenger/already-sent-items-guids.json
+output-log.txt

@@ -1,0 +1,3 @@
+{
+	"ignore": ["RSS_news_discord_messenger/already-sent-items-guids.json", "RSS_news_discord_messenger/term-regex-whitelist.json", "bannedTerms/**"]
+}
